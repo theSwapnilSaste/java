@@ -366,6 +366,7 @@ Mathod 4 Every escape character is a valid char literal. In Java there are 8 val
 | 6. | `\'` | Single Quote Symbol |
 | 7. | `\"` | Double Quote Symbol |
 | 8. | `\\` | Backslash Symbol |
+
 ![Valid](https://img.shields.io/badge/Valid%3F-Yes-brightgreen)
 ![Invalid](https://img.shields.io/badge/Error-Compile%20Time-red) Illigal Escape Character
 
@@ -434,6 +435,7 @@ Q. Which of the following declarations are **valid** in Java ?
 | 1. | `double d =_1_23_456.789;` | ![Invalid](https://img.shields.io/badge/Error-Compile%20Time-red)|
 | 2. | `double d =1_23.456_.789;` | ![Invalid](https://img.shields.io/badge/Error-Compile%20Time-red)|
 | 3. | `double d =123__456.789_;` | ![Invalid](https://img.shields.io/badge/Error-Compile%20Time-red)|
+
 Error: Underscores have to be located within digits
 
 >These underscores are allowed for readability, we can use underscore symbols between digits only. near the '.',at beginning, at end is not allowed; we'll get compile time error.
