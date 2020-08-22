@@ -4,5 +4,14 @@
 @import "{{ site.theme }}";
 
 code.highlighter-rouge{
-  color:#34d104;
+  color:rgb(181, 232, 83);
+}
+
+table,td,th{
+    border-width: 1px;
+    border-style: dashed;
+    border-color: rgb(181, 232, 83);}
+
+table{
+  width: 0%;
 }
