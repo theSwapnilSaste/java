@@ -2,6 +2,7 @@
 
 In Java some words are reserved to represent some meaning or functionality such type of words are called **Reserved Words**
 
+
 | Reserved Word | Description |
 |---|---|
 | **null**  | ![Literal](https://img.shields.io/badge/3-literal-brightgreen) (Default value for object reference) Indicates that a reference does not refer to anything |
@@ -58,6 +59,7 @@ In Java some words are reserved to represent some meaning or functionality such 
 | **this** | ![ClassR](https://img.shields.io/badge/4-Object-green) Refers to the current object in a method or constructor |
 | **void** | Specifies that a method does not have a return value |
 | **enum** | ![Version](https://img.shields.io/badge/Version-1.5-green) A Java keyword used to declare an enumerated type. Enumerations extend the base class. |
+
 ---
 
 **NOTE** 01
