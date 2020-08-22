@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Java Notes
 
-You can use the [editor on GitHub](https://github.com/shortnotes/java/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A personal repo where I am taking down notes while watching Durga sir's videos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## INDEX
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shortnotes/java/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [Language Fundamentals](01_language_fundamentals/README.md)
+    01. [Identifiers](01_language_fundamentals/01_identifiers/README.md)
+    2. [Reserved Words](01_language_fundamentals/02_reserved_words/README.md)
+    3. [Data Types](01_language_fundamentals/03_data_types/README.md)
+    4. [Literals](01_language_fundamentals/04_literals/README.md)
+    5. [Arrays](01_language_fundamentals/05_arrays/README.md)
+    6. [Types of Variables](01_language_fundamentals/06_types_of_variables/README.md)
+    7. [var args methods](01_language_fundamentals/07_varargs_method/README.md)
+    8. [main method](01_language_fundamentals/08_main_method/README.md)
+    9. [Command Line arguments](01_language_fundamentals/09_command_line_arguments/README.md)
+    10. [Java Coding Standards](01_language_fundamentals/10_java_coding_standards/README.md)
