@@ -110,6 +110,7 @@ Q. Which of the following are **valid** Java identifiers?
 | 8. | `Integer`| ![Valid](https://img.shields.io/badge/Valid%3F-Yes-brightgreen) ![Not Recommended](https://img.shields.io/badge/Recommended%3F-No-red)|
 | 9. | `Int`| ![Valid](https://img.shields.io/badge/Valid%3F-Yes-brightgreen) |
 | 10. |`int`| [![Invalid](https://img.shields.io/badge/Valid%3F-No-red)](#rules-for-defining-java-identifiers) Rule No.5 |
+
 ---
 
 ### Next Topic: [1.02 Reserved Words](../02_reserved_words/README.md)
