@@ -1,6 +1,6 @@
 # Java Notes
 
-A personal repo where I am taking down notes while watching Durga sir's videos.
+Short notes for Java in markdown
 
 ## INDEX
 
