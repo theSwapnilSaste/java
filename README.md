@@ -4,7 +4,7 @@ A personal repo where I am taking down notes while watching Durga sir's videos.
 
 ## INDEX
 
-1. [Language Fundamentals](01_language_fundamentals/README.md)
+1. Language Fundamentals
     01. [Identifiers](01_language_fundamentals/01_identifiers/README.md)
     2. [Reserved Words](01_language_fundamentals/02_reserved_words/README.md)
     3. [Data Types](01_language_fundamentals/03_data_types/README.md)
