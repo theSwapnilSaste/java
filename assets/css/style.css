@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 code.highlighter-rouge{
-  color:#34d104
+  color:#34d104;
 }
